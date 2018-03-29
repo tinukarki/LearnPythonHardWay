@@ -1,4 +1,4 @@
 # LearnPythonHardWay
 Exercises from Learn Python the Hardway
 
-Practise of GitHub
+Practising commit and branches
